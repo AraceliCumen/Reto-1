@@ -29,4 +29,4 @@
 |  7   | Que pueda hacer una busqueda general | La forma, la ubicación y el ícono de la caja de búsqueda |
 |  8   | Que pueda agregar videos a favoritos, me gusta y ver mas tarde | La ubicación y el ícono de cada opción|
 |  9   | Que el usuario se sienta identificado | La imagen o la foto del usuario, la forma redondeada y la ubicación |
-|  10  |  
+|  10  | Que pueda enviar comentarios | La forma y la presentacion de los comentarios, el tipo de letra a utilizar |
