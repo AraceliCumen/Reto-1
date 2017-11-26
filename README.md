@@ -12,7 +12,7 @@
 
 ## Capturamos la Pantalla
 
- ![Reto1](assets/imgs/screenshots/principal.png "Reto1")
+ ![Reto1](assets/imgs/screenshots/principal.png)
 
 ## UX vs. UI
 
