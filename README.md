@@ -12,7 +12,7 @@
 
 ## Capturamos la Pantalla
 
- ![Reto1](assets/imgs/screenshots/principal.png)
+ ![Reto1](assets/imgs/principal.png)
 
 ## UX vs. UI
 
@@ -32,4 +32,5 @@
 |  10  | Que pueda enviar comentarios | La forma y la presentacion de los comentarios, el tipo de letra a utilizar |
 |  11  | Que pueda pedir ayuda | El ícono y el lugar donde se coloca el ícono para pedir ayuda |
 |  12  | Que pueda hacer la carga de sus propios videos | Un botón cargar |
+|  13  | 
 
