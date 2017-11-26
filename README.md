@@ -30,3 +30,6 @@
 |  8   | Que pueda agregar videos a favoritos, me gusta y ver mas tarde | La ubicación y el ícono de cada opción|
 |  9   | Que el usuario se sienta identificado | La imagen o la foto del usuario, la forma redondeada y la ubicación |
 |  10  | Que pueda enviar comentarios | La forma y la presentacion de los comentarios, el tipo de letra a utilizar |
+|  11  | Que pueda pedir ayuda | El ícono y el lugar donde se coloca el ícono para pedir ayuda |
+|  12  | Que pueda hacer la carga de sus propios videos | Un botón cargar |
+
